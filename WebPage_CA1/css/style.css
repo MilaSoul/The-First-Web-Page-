@@ -1,0 +1,391 @@
+
+    
+    .box_4_css_pic {
+        width: 208px;
+        height: 200px;
+        background-image: url('../img/webpic.png');
+    }
+
+    .box_java_pic{
+        width: 300px;
+        height: 200px;
+        margin-left: 90px;
+        background-image: url('../img/webpic1.png')
+    }
+    
+    body{
+    background-color: #361999;
+    }
+
+    header{
+        width: 100%;
+        height: 65px;
+        background-color:#361999;
+        font-family: "Audiowide", sans-serif;
+    }
+
+
+    .container_nav {
+        height:70px;
+        width: 700%;
+        background-color:#361999; 
+    }
+    
+    nav{
+        float:right;
+    }
+    nav ul{
+    margin: 0;
+    padding: 15px;
+    list-style: none;
+    }
+    nav li{
+        display: inline-block;
+        margin-left: 80px;
+    }
+    nav a{
+        text-decoration: none;
+        font-size: large;
+        font-family: "Audiowide", sans-serif;
+        color:#78fff1;
+    }
+
+    .heading_intro {
+        width: 100%;
+        height: 65px;
+        margin-top: 20px;
+        margin-bottom: 15px;
+        margin-left: 90px;
+  
+        font-family: "Audiowide", sans-serif;
+       
+        display:block;
+    }
+
+    .box_intro{
+        width: 800px;
+        height:60px;
+        margin-left:90px;
+        margin-top: 30px;
+        font-family: 'Open Sans', sans-serif;;
+        font-size: larger;
+        color: white;
+    }
+   
+
+    
+    h1 {
+        color: #78fff1;
+        font-family: "Audiowide", sans-serif;
+    }
+
+    h2, h3, h4, h5, h6{
+    
+        color:white;
+        font-size:x-large;
+        font-family: "Audiowide", sans-serif;
+        
+    }
+
+    .datasub_box {
+    
+        width: 800px;
+        height: 400px;
+        display: block;
+        padding-left: 15px;
+        padding-top: 15px;
+        font-family: "Audiowide", sans-serif;
+        margin-left:90px;
+        margin-top: 100px;
+        border-left-width: 20px;
+        border: 3px solid #ff6495;
+        border-radius: 12px; 
+    }
+
+    
+    .datasub_box_heading{
+      color:#ff6495;
+
+    }
+
+    .datasub_box_parag{
+      color: white;
+      font-size: medium;
+      font-family: 'Open Sans', sans-serif;
+    }
+
+    .demo {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    }
+
+
+
+    
+    
+    .container_html{
+        display: flex;
+        } 
+        .container_html_2{
+        display: flex;
+        } 
+
+    .box_1{
+        width: 100%;
+        height: 200px;
+        font-family: "Audiowide", sans-serif;
+        margin-top: 20px;
+        margin-left: 90px;
+        padding: 10px;
+        }
+
+    .box_2{
+        width: 100%;
+        height: 200px;
+        font-family: "Audiowide", sans-serif;
+        margin: 20px;
+        padding: 10px;
+       
+        }
+
+    .box_3{
+        width: 100%;;
+        height: 200px;
+        font-family: "Audiowide", sans-serif;
+        margin: 20px;
+        padding: 10px;
+        }
+
+    .box_4{
+        width: 250px;
+        height: 80px;
+        text-align: center;
+        font-family: "Audiowide", sans-serif;
+        margin-top: 20px;
+        margin-left: 600px;
+        padding: 10px;
+        border: 10px;
+    
+        }
+
+
+
+
+
+    .container_css{
+            display: flex;
+            } 
+    
+    .box_1_css{
+            width: 400px;
+            height: 200px;
+            font-family: "Audiowide", sans-serif;
+            margin-top: 20px;
+            margin-left: 90px;
+            padding: 10px;
+            margin-bottom: 0%;
+           
+            }
+    
+    .box_2_css{
+            width: 650px;
+            height: 200px;
+            font-family: "Audiowide", sans-serif;
+            margin: 20px;
+            padding: 10px;
+            border-radius: 12px; 
+            margin-bottom: 0%;
+            }
+    
+    .box_3_css{
+            width: 400px;;
+            height: 180px;
+            font-family: "Audiowide", sans-serif;
+            margin: 20px;
+            padding: 10px;
+            margin-left: 90px;
+            margin-top: 0%;
+            margin-bottom: 0%;
+            }
+    
+    .box_4_css{
+            width: 400px;
+            height: 180px;
+            font-family: "Audiowide", sans-serif;
+            padding: 10px;
+            border-radius: 12px; 
+            margin: 20px;
+            margin-top: 0%;
+            margin-bottom: 0%;
+            }
+    
+     .container_css_2{
+             display: flex
+            }
+    
+     .container_css_3{
+            display: flex
+            }
+    
+     .container_css_4{
+                display: flex
+            }
+    
+     .box_5_css {
+            width: 400px;;
+            height: 200px;
+            font-family: "Audiowide", sans-serif;
+            margin: 20px;
+            padding: 10px;
+            margin-left: 90px;
+           
+            border-radius: 12px; 
+            margin-top: 0%;
+            }
+    
+     .box_6_css {
+            width: 350px;;
+            height: 200px;
+            font-family: "Audiowide", sans-serif;
+            margin: 20px;
+            padding: 10px;
+            margin-top: 0%;
+            }
+    
+     .box_7_css{
+            width: 750px;;
+            height: 200px;
+            font-family: "Audiowide", sans-serif;
+            margin: 20px;
+            padding: 10px;
+            margin-left: 90px;
+            margin-top: 0%;
+       
+            }
+    
+     .box_8_css{
+            width: 500px;
+            height: 80px;
+            text-align: center;
+            font-family: "Audiowide", sans-serif;
+            margin-top: 20px;
+            padding: 10px;
+            border: 10px;
+            }
+
+
+
+
+
+    .container_java {
+        display: flex;
+        }
+
+    .container_java_2{
+        display: flex;
+
+        }
+
+    .container_java_3{
+        display: flex;
+        }
+
+    .box_java_1 {
+        width: 400px;
+        height: 200px;
+        font-family: "Audiowide", sans-serif;
+        margin-top: 20px;
+        margin-left: 90px;
+        padding: 10px;
+        margin-bottom: 0%;
+        
+        border-radius: 12px; 
+        }
+
+    .box_java_2 {
+        width: 650px;
+        height: 200px;
+        font-family: "Audiowide", sans-serif;
+        margin: 20px;
+        padding: 10px;
+        border-radius: 12px; 
+        margin-bottom: 0%;
+        }
+
+    .box_java_3 {
+        width: 400px;
+        height: 200px;
+        font-family: "Audiowide", sans-serif;
+        margin-top: 20px;
+        margin-left: 90px;
+        padding: 10px;
+        margin-bottom: 0%;
+        
+        border-radius: 12px; 
+        }
+
+    .box_java_4 {
+        width: 650px;
+        height: 200px;
+        font-family: "Audiowide", sans-serif;
+        margin: 20px;
+        padding: 10px;
+        border-radius: 12px; 
+        margin-bottom: 0%;
+        }
+
+    .box_java {
+        width: 300px;
+        height: 50px;
+        
+        font-family: "Audiowide", sans-serif;
+        padding: 10px;
+        border: 10px;
+        
+       
+        }
+
+    .box_intro_flex {
+            display: flex;
+            margin-left: 90px;
+            margin-top: 20px;
+        }
+
+    #demo_1 {
+            font-family: "Audiowide", sans-serif;
+            font-size: larger;
+            color:aliceblue;
+            
+        }
+
+    .box_java_5{
+        width: 650px;
+        height: 200px;
+        font-family: "Audiowide", sans-serif;
+        margin-top: 20px;
+        margin-left: 90px;
+        padding: 10px;
+        margin-bottom: 0%;
+        
+        border-radius: 12px; 
+
+        }
+
+            
+        
+
+    .box_java_6{
+        width: 500px;
+        height: 80px;
+        margin-left: 40px;
+        text-align: center;
+        font-family: "Audiowide", sans-serif;
+        margin-top: 20px;
+        padding: 10px;
+        border: 10px;
+        }
+
+          
